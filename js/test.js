@@ -1,3 +1,3 @@
 export default function testJs(options = {}) {
-  console.log("Hello from test.js");
+  console.log("Hello again from test.js");
 }
